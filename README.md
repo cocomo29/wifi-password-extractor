@@ -16,3 +16,7 @@ This task can be achieved manually by following these steps:
 - type `netsh wlan show profile <name> key=clear` </br>
 
 `main.py` goes through all of the profiles and automates the task of manually executing the above mentioned command again and again!
+
+<p align="center" > 
+<a href="" target="_blank"> <img src="https://i.imgur.com/Cb8iIzV.jpg"/> </a>
+</p>
